@@ -1,7 +1,7 @@
 # Invoice_recognition
 
 ## Overview:
-A FLask-Python REST API that helps us identify the text in invoices when uploading image of an invoice from your device. The API identifies the Category of expense, the amount spent, the amoubnt spent in tax and the accuracy score of the OCR technique.
+A FLask-Python REST API that helps us identify the text in invoices when uploading an image of an invoice from your device. The API identifies the Category of expense, the amount spent, the amount spent in tax and the accuracy score of the OCR technique.
 
 ## Libraries used:
 - pytesseract
