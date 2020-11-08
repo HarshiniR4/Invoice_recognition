@@ -1,1 +1,1 @@
-web: gunicorn --bind 0.0.0.0:$PORT invoice_rec_tesseract:app
+web: gunicorn --bind 0.0.0.0:$PORT ocr_sw:app
