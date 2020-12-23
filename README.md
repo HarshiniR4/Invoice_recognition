@@ -12,8 +12,11 @@ A FLask-Python REST API that helps us identify the text in invoices when uploadi
 - Flask
 
 
-## Further updates:
-- to Deploy it on a server using Heroku.
+## Deployment:
+- Deployed the Flask API using AWs EC2 instance
+
+## Further Updates:
+- To improve accuracy of ocr identification
 
 ## References:
 - https://github.com/mylamour/flask-ocr
